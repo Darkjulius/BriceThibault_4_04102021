@@ -709,9 +709,18 @@ h2 {
     line-height: 1.4em;
 }
 .description-agence{
-    text-align: center;
+    font-size: 1.4em;
     width: 64%;
     margin: 0 auto;
+}
+.citation-agence{
+    width: 90%;
+    margin: 0 auto;
+    font-style: italic;
+    font-size:1.5em;
+}
+.citation{
+    font-size: 1em;
 }
 
 h3 {
