@@ -708,7 +708,23 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
-
+.title-services-h2{
+    width: 60%;
+    margin: 0 auto;
+}
+.citation-services-h2{
+    font-style: italic;
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.citation{
+    font-size: 13px;
+}
+.title-portfolio-h2{
+    width: 50%;
+    margin: 0 auto;
+}
 h3 {
     font-size: 15px;
     text-transform: uppercase;
