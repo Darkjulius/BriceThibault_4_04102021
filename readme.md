@@ -1,6 +1,12 @@
 # Projet 4 du parcours Développeur web d'OpenClassrooms : Optimiser un site web existant
 ***
-## Compétences évaluées :
+
+## Livrables
+* Un document PDF du rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées.
+* Un document TXT contenant le lien vers le repertoire GitHub du code source complet du site amélioré.
+* Un document PDF du rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
+
+## Compétences évaluées
 * Réaliser une recherche des bonnes pratiques en développement web
 * Assurer l'accessibilité d'un site web
 * Écrire un code HTML et CSS maintenable
